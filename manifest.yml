@@ -6,4 +6,4 @@ applications:
   host: cf-php-demo
   domain: cfapps.io
   path: .
-  buildpack: 
+  buildpack: https://github.com/robertojacome/proyecto2.git
